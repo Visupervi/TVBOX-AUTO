@@ -1,56 +1,56 @@
 {
-  "updatedAt": "2026-08-02T05:29:50.260Z",
+  "updatedAt": "2026-08-03T05:43:53.328Z",
   "activeSource": {
     "name": "高天流云 JS",
     "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-    "elapsedMs": 135,
+    "elapsedMs": 148,
     "siteCount": 298
   },
   "availableSources": [
     {
       "name": "FreeOK TVBox",
       "url": "https://api.freeob.com/tvbox/jiekou.json",
-      "elapsedMs": 26
-    },
-    {
-      "name": "高天流云 JS",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-      "elapsedMs": 135
-    },
-    {
-      "name": "FreeOK Box",
-      "url": "https://api.freeob.com/box/m.json",
-      "elapsedMs": 139
+      "elapsedMs": 51
     },
     {
       "name": "高天流云 PG 0825",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
-      "elapsedMs": 140
+      "elapsedMs": 145
     },
     {
       "name": "高天流云 FM 0827",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
-      "elapsedMs": 142
+      "elapsedMs": 147
+    },
+    {
+      "name": "高天流云 JS",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "elapsedMs": 148
     },
     {
       "name": "高天流云 FTY 0826",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
-      "elapsedMs": 143
+      "elapsedMs": 162
+    },
+    {
+      "name": "FreeOK Box",
+      "url": "https://api.freeob.com/box/m.json",
+      "elapsedMs": 188
     },
     {
       "name": "高天流云 0821",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
-      "elapsedMs": 535
-    },
-    {
-      "name": "Pastebin TVBox",
-      "url": "https://pastebin.com/raw/sbPpDm9G",
-      "elapsedMs": 557
+      "elapsedMs": 570
     },
     {
       "name": "Jundie Top98",
       "url": "http://home.jundie.top:81/top98.json",
-      "elapsedMs": 937
+      "elapsedMs": 656
+    },
+    {
+      "name": "Pastebin TVBox",
+      "url": "https://pastebin.com/raw/sbPpDm9G",
+      "elapsedMs": 669
     }
   ],
   "failedCount": 2
