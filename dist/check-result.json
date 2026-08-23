@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T02:55:31.698Z",
+  "updatedAt": "2026-08-23T03:03:50.452Z",
   "results": [
     {
       "name": "FreeOK TVBox",
@@ -14,11 +14,23 @@
       "size": 7046
     },
     {
+      "name": "FreeOK Box",
+      "url": "https://api.freeob.com/box/m.json",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 116,
+      "contentType": "application/json",
+      "isJson": true,
+      "hasSites": true,
+      "hasLives": true,
+      "size": 6400
+    },
+    {
       "name": "高天流云 JS",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 137,
+      "elapsedMs": 133,
       "contentType": "text/plain; charset=utf-8",
       "isJson": true,
       "hasSites": true,
@@ -26,23 +38,11 @@
       "size": 51621
     },
     {
-      "name": "高天流云 XYQ",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-      "ok": true,
-      "status": 200,
-      "elapsedMs": 152,
-      "contentType": "text/plain; charset=utf-8",
-      "isJson": false,
-      "hasSites": false,
-      "hasLives": false,
-      "size": 19203
-    },
-    {
       "name": "高天流云 PG 0825",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 167,
+      "elapsedMs": 139,
       "contentType": "text/plain; charset=utf-8",
       "isJson": true,
       "hasSites": true,
@@ -54,7 +54,7 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 174,
+      "elapsedMs": 145,
       "contentType": "text/plain; charset=utf-8",
       "isJson": true,
       "hasSites": true,
@@ -62,23 +62,23 @@
       "size": 10559
     },
     {
-      "name": "Pastebin TVBox",
-      "url": "https://pastebin.com/raw/sbPpDm9G",
+      "name": "高天流云 XYQ",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 174,
+      "elapsedMs": 155,
       "contentType": "text/plain; charset=utf-8",
-      "isJson": true,
-      "hasSites": true,
-      "hasLives": true,
-      "size": 9886
+      "isJson": false,
+      "hasSites": false,
+      "hasLives": false,
+      "size": 19203
     },
     {
       "name": "高天流云 FM 0827",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 179,
+      "elapsedMs": 159,
       "contentType": "text/plain; charset=utf-8",
       "isJson": true,
       "hasSites": true,
@@ -86,23 +86,23 @@
       "size": 9973
     },
     {
-      "name": "FreeOK Box",
-      "url": "https://api.freeob.com/box/m.json",
+      "name": "Pastebin TVBox",
+      "url": "https://pastebin.com/raw/sbPpDm9G",
       "ok": true,
       "status": 200,
-      "elapsedMs": 204,
-      "contentType": "application/json",
+      "elapsedMs": 196,
+      "contentType": "text/plain; charset=utf-8",
       "isJson": true,
       "hasSites": true,
       "hasLives": true,
-      "size": 6400
+      "size": 9886
     },
     {
       "name": "高天流云 0821",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 449,
+      "elapsedMs": 464,
       "contentType": "text/plain; charset=utf-8",
       "isJson": true,
       "hasSites": true,
@@ -114,7 +114,7 @@
       "url": "http://home.jundie.top:81/top98.json",
       "ok": true,
       "status": 200,
-      "elapsedMs": 660,
+      "elapsedMs": 1032,
       "contentType": "application/json",
       "isJson": true,
       "hasSites": true,
@@ -126,12 +126,12 @@
       "url": "http://tv.nxog.top/m/",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1605,
+      "elapsedMs": 1455,
       "contentType": "text/html; charset=UTF-8",
       "isJson": false,
       "hasSites": false,
       "hasLives": false,
-      "size": 8365
+      "size": 8371
     }
   ]
 }
